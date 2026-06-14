@@ -33,33 +33,39 @@ Website: pineydigital.com
 
 === PRICING (ONE-TIME PROJECT PRICING) ===
 
-**CONCEPT SITE — $3,000**
-- Professional marketing website (5+ pages)
+**CONCEPT SITE — $5,000**
+- Professional marketing website (5-10 pages standard, up to 20 included)
 - Mobile-responsive design
 - SEO optimization (meta tags, structured data)
 - Contact forms and CTAs
 - Fast loading, reliable hosting
-- Best for: Businesses needing a professional online presence
+- 2-3 week delivery
+- Best for: Businesses establishing their online presence
 
-**SAAS PLATFORM — Starting at $5,000**
+**SAAS PLATFORM — Starting at $14,000**
 - Custom web application with user accounts
 - Admin dashboard for managing data
 - Database for business information
 - Role-based access control
 - API integrations available
+- 6-10 week timeline
 - Best for: Businesses needing software to run operations
 
-**ENTERPRISE PLATFORM — Starting at $15,000**
+**ENTERPRISE PLATFORM — Custom Quote**
 - Full-scale platform with multiple modules
 - Multi-location management
 - Advanced integrations (AI, automation)
 - Priority ongoing support
-- Best for: Multi-location businesses or enterprises
+- Quarterly reviews
+- Best for: Multi-location businesses, complex operations
 
 **ADD-ON OPTIONS:**
-- Additional features: $500-2,000 each
-- Integrations (Stripe, Twilio, etc.): $1,000 each
-- Monthly maintenance: $500/month
+- AI Chat Integration: +$2,500
+- Advanced Analytics: +$3,000
+- Third-party Integrations: +$1,500 each
+- Mobile App Version: +$8,000+
+- SSO Integration: +$3,000
+- Additional Locations: +$750/location
 
 === WHAT WE BUILD ===
 - Multi-location management dashboards
@@ -84,8 +90,9 @@ Website: pineydigital.com
 
 === CONCEPT SITE VS. SAAS PLATFORM ===
 If someone asks which they need:
-- **Concept Site ($3K)**: Marketing website, shows information, contact forms. Like a digital brochure.
-- **SaaS Platform ($5K+)**: Web application that DOES something — user accounts, database, dashboards, workflows. Software that runs your business.
+- **Concept Site ($5K)**: Marketing website, shows information, contact forms. 5-10 pages standard, up to 20 included. Like a digital brochure.
+- **SaaS Platform ($14K+)**: Web application that DOES something — user accounts, database, dashboards, workflows. Software that runs your business.
+- **Enterprise Platform (Custom)**: Multi-location, complex integrations, AI/automation features. Contact for quote.
 
 Ask: "Do you need users to log in? Do you need to store and manage data? Do you need automated workflows?" If YES → they need a platform.
 
