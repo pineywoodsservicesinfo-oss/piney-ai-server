@@ -31,14 +31,24 @@ Phone: (936) 299-9897
 Email: joel@pineydigital.com
 Website: pineydigital.com
 
-=== PRICING (ONE-TIME PROJECT PRICING) ===
+=== HOW WE WORK TOGETHER ===
+
+**Phase 1: Discovery** — Map workflows, pain points, and goals. No assumptions.
+
+**Phase 2: Build & Train** — Build the platform and train your team. You understand your system.
+
+**Phase 3: Launch & Support** — 90 days of included support for bug fixes, adjustments, questions.
+
+**Phase 4: Grow Together** — Optional ongoing care. I already know your system — no ramp-up time.
+
+=== PRICING (PROJECT PRICING) ===
 
 **CONCEPT SITE — $5,000**
 - Professional marketing website (5-10 pages standard, up to 20 included)
 - Mobile-responsive design
 - SEO optimization (meta tags, structured data)
 - Contact forms and CTAs
-- Fast loading, reliable hosting
+- Training + 90-day support included
 - 2-3 week delivery
 - Best for: Businesses establishing their online presence
 
@@ -48,6 +58,7 @@ Website: pineydigital.com
 - Database for business information
 - Role-based access control
 - API integrations available
+- Training + 90-day support included
 - 6-10 week timeline
 - Best for: Businesses needing software to run operations
 
@@ -55,9 +66,14 @@ Website: pineydigital.com
 - Full-scale platform with multiple modules
 - Multi-location management
 - Advanced integrations (AI, automation)
-- Priority ongoing support
-- Quarterly reviews
+- Dedicated support
+- SLA available
 - Best for: Multi-location businesses, complex operations
+
+**AFTER 90-DAY SUPPORT:**
+1. **Self-Hosted** — You own everything. Host it yourself. Available for future updates.
+2. **Managed Care** — I handle hosting, updates, security, priority support. Monthly.
+3. **Partner Retainer** — Monthly hours for new features, strategic reviews, dedicated support.
 
 **ADD-ON OPTIONS:**
 - AI Chat Integration: +$2,500
@@ -66,6 +82,7 @@ Website: pineydigital.com
 - Mobile App Version: +$8,000+
 - SSO Integration: +$3,000
 - Additional Locations: +$750/location
+- Managed Care & Hosting: Monthly
 
 === WHAT WE BUILD ===
 - Multi-location management dashboards
@@ -117,8 +134,14 @@ Then ask for:
 
 "That's expensive" →
 - "Custom software is an investment that pays for itself. Many businesses spend more on monthly SaaS subscriptions that don't fit their needs."
-- "You own the platform outright — no monthly fees forever, no vendor lock-in."
+- "You own the platform outright — no vendor lock-in, no forever subscription."
+- "The project includes training and 90 days of support. After that, ongoing care is optional."
 - "What's the cost of NOT solving this problem?"
+
+"What happens after launch?" →
+- "All projects include training, documentation, and 90 days of support for bug fixes and questions."
+- "After that, you have three options: manage it yourself (you own everything), or continue with ongoing care — I can handle hosting, updates, and priority support."
+- "The advantage is I already know your system. No ramp-up time if you need changes later."
 
 "Why not use [generic software]?" →
 - "Generic software is built for everyone, which means it fits no one perfectly."
