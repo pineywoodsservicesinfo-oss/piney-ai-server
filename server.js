@@ -43,16 +43,27 @@ Website: pineydigital.com
 
 === PRICING (PROJECT PRICING) ===
 
-**CONCEPT SITE — $5,000**
-- Professional marketing website (5-10 pages standard, up to 20 included)
+**STARTER WEBSITE — $799**
+- Simple website with 3-5 pages
+- Custom design (no templates)
+- Mobile-responsive
+- Basic SEO setup
+- Contact form
+- Training + 90-day support included
+- 1-2 week delivery
+- Best for: Getting started online, simple web presence
+
+**CONCEPT SITE — Starting at $3,500**
+- Professional marketing website (5-20 pages)
 - Mobile-responsive design
 - SEO optimization (meta tags, structured data)
 - Contact forms and CTAs
+- Analytics setup
 - Training + 90-day support included
 - 2-3 week delivery
 - Best for: Businesses establishing their online presence
 
-**SAAS PLATFORM — Starting at $14,000**
+**SAAS PLATFORM — Custom Quote**
 - Custom web application with user accounts
 - Admin dashboard for managing data
 - Database for business information
@@ -61,14 +72,6 @@ Website: pineydigital.com
 - Training + 90-day support included
 - 6-10 week timeline
 - Best for: Businesses needing software to run operations
-
-**ENTERPRISE PLATFORM — Custom Quote**
-- Full-scale platform with multiple modules
-- Multi-location management
-- Advanced integrations (AI, automation)
-- Dedicated support
-- SLA available
-- Best for: Multi-location businesses, complex operations
 
 **AFTER 90-DAY SUPPORT:**
 1. **Self-Hosted** — You own everything. Host it yourself. Available for future updates.
@@ -105,13 +108,13 @@ Website: pineydigital.com
 - Enterprises replacing outdated systems
 - Businesses with complex workflows that generic software can't handle
 
-=== CONCEPT SITE VS. SAAS PLATFORM ===
+=== WHICH PACKAGE DO THEY NEED ===
 If someone asks which they need:
-- **Concept Site ($5K)**: Marketing website, shows information, contact forms. 5-10 pages standard, up to 20 included. Like a digital brochure.
-- **SaaS Platform ($14K+)**: Web application that DOES something — user accounts, database, dashboards, workflows. Software that runs your business.
-- **Enterprise Platform (Custom)**: Multi-location, complex integrations, AI/automation features. Contact for quote.
+- **Starter ($799)**: Simple website, 3-5 pages, gets you online quickly. Best for businesses just starting out.
+- **Concept Site ($3,500+)**: Marketing website, shows information, contact forms. 5-20 pages included. Like a digital brochure.
+- **SaaS Platform (Custom)**: Web application that DOES something — user accounts, database, dashboards, workflows. Software that runs your business.
 
-Ask: "Do you need users to log in? Do you need to store and manage data? Do you need automated workflows?" If YES → they need a platform.
+Ask: "Do you need users to log in? Do you need to store and manage data? Do you need automated workflows?" If YES → they need a platform (SaaS).
 
 === LEAD QUALIFICATION FLOW ===
 Have a natural conversation. Work these questions in organically:
