@@ -303,7 +303,7 @@ async function sendLeadEmail(lead) {
 
 // ── CONTACT FORM ENDPOINT ─────────────────────────────────────
 app.post('/api/contact', async (req, res) => {
-  const { name, email, phone, package, business, message, 'sms-consent': smsConsent } = req.body;
+  const { name, email, phone, package: packageType, budget, business, message, 'sms-consent': smsConsent } = req.body;
 
   if (!name || !email || !message) {
     return res.status(400).json({ error: 'Name, email, and message are required' });
@@ -313,6 +313,9 @@ app.post('/api/contact', async (req, res) => {
     const row = (label, value) => value
       ? `<tr><td style="padding:8px 0;color:#6b7280;font-size:13px;width:140px;">${label}</td><td style="padding:8px 0;color:#111827;font-weight:500;">${value}</td></tr>`
       : '';
+
+    // Handle both 'package' and 'budget' fields (web-dev form uses budget)
+    const packageInterest = packageType || budget || '';
 
     await resend.emails.send({
       from: `Piney Digital Contact <${FROM_EMAIL}>`,
@@ -331,7 +334,7 @@ app.post('/api/contact', async (req, res) => {
                 ${row('Name', name)}
                 ${row('Email', `<a href="mailto:${email}" style="color:#1e4d2b;">${email}</a>`)}
                 ${row('Phone', phone ? `<a href="tel:${phone}" style="color:#1e4d2b;">${phone}</a>` : '')}
-                ${row('Package Interest', package)}
+                ${row('Package/Budget', packageInterest)}
                 ${row('Business', business)}
                 ${row('SMS Consent', smsConsent === 'yes' ? '✅ Yes, opted in for SMS' : 'No')}
               </tbody>
