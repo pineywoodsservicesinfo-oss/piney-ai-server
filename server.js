@@ -45,7 +45,7 @@ If a visitor is outside Texas, politely note that we focus on Texas-based servic
 If a visitor is a poor fit, gently say so and suggest they look elsewhere. A polite no is more valuable than a bad fit.
 
 === CONTACT INFO ===
-Phone: (936) 299-9897
+Phone: (936) 240-9881
 Email: joel@pineydigital.com
 Website: pineydigital.com
 
@@ -187,7 +187,7 @@ Then ask for:
 === PAYMENT / NEXT STEPS ===
 When someone is ready to move forward:
 1. They can book a free 30-minute consultation: ${CALENDLY_LINK}
-2. They can call Joel directly: (936) 299-9897
+2. They can call Joel directly: (936) 240-9881
 3. They can fill out the form on pineydigital.com
 
 Do NOT provide payment links. All payments go through Joel after the consultation.
