@@ -264,7 +264,7 @@ async function sendLeadEmail(lead) {
     ? `<tr><td style="padding:8px 0;color:#6b7280;font-size:13px;width:140px;">${label}</td><td style="padding:8px 0;color:#111827;font-weight:500;">${value}</td></tr>`
     : '';
 
-  await resend.emails.send({
+  const sent = await resend.emails.send({
     from: `Piney Digital Assistant <${FROM_EMAIL}>`,
     to: YOUR_EMAIL,
     subject: isConsult
@@ -316,6 +316,7 @@ async function sendLeadEmail(lead) {
         </div>
       </div>`,
   });
+  if (sent.error) throw new Error(`Resend rejected lead email: ${sent.error.message || JSON.stringify(sent.error)}`);
   console.log(`✉️ Lead email sent: ${lead.name} (${lead.email})`);
 }
 
@@ -335,7 +336,7 @@ app.post('/api/contact', async (req, res) => {
     // Handle both 'package' and 'budget' fields (web-dev form uses budget)
     const packageInterest = packageType || budget || '';
 
-    await resend.emails.send({
+    const sent = await resend.emails.send({
       from: `Piney Digital Contact <${FROM_EMAIL}>`,
       to: YOUR_EMAIL,
       subject: `📬 New Contact Form Submission — ${name}`,
@@ -369,6 +370,7 @@ app.post('/api/contact', async (req, res) => {
           </div>
         </div>`,
     });
+    if (sent.error) throw new Error(`Resend rejected contact email: ${sent.error.name || ''} ${sent.error.message || JSON.stringify(sent.error)}`);
     console.log(`✉️ Contact form submitted: ${name} (${email})`);
     res.json({ success: true, message: 'Thanks! Joel will contact you within 24 hours.' });
   } catch (error) {
